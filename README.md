@@ -1,7 +1,7 @@
 ### Olá, eu sou o cleysonseveriano 👋
 
 - 😢Hoje não estou trabalhando
-- 📕Estou iniciando no desenvolvimento web (atualmente estudando HTML and CSS)
+- 📕Estou iniciando no desenvolvimento web (atualmente estudando HTML e CSS)
 - 🤨Pronouns: ele/dele
 
 <div align="center">
