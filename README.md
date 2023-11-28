@@ -1,8 +1,7 @@
 ### Olá, eu sou o cleysonseveriano 👋
 
-- 😢Hoje não estou trabalhando
-- 3ºsemestre em Análise e Desenvolvimento de Sistemas
-- 📕Front end beginner(atualmente estudando HTML, CSS e JS)
+- Graduando em Análise e Desenvolvimento de Sistemas
+- Desnsenvolvedor Fullstack Jr
 - 🤨Pronouns: ele/dele
 
 <div align="center">
