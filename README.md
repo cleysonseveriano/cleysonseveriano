@@ -1,8 +1,21 @@
-### Hello, I am Cleyson 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- Análise e Desenvolvimento de Sistemas
-- Jr BackEnd Developer
-- Working at Speed+
+<p align="left"> 
+  Olá meu nome é Cleyson, desde que comecei minha faculdade em ADS, sempre tive muito interesse em trabalhar com exatas, e hoje combino esse meu interesse com projetos e estudos para back end <strong>Node JS | JavaScript | Express | Fastify | JWT</strong>.<br>
+  Atualmente sou estagiário em TI, na Speed+ soluções em call center; além disso curso ADS e desenvolvo api com NodeJS
+</p>
+
+<p align="left">
+  🦄 Linguagens: **Node JS | JavaScript | Express | Fastify | JWT | MONGODB | MysSQL**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **VsCode | Github | Insomnia | API Dog **
+</p>
+
+<p align="left">
+  💌 Para contato seguem alguns links abaixo redirecionando as minhas redes sociais. Thanks: ⤵️
+</p>
 
 ## Social
 
