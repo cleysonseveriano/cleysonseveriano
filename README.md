@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Node JS | JavaScript | Express | Fastify | JWT | MONGODB | MysSQL**
+  🦄 Linguagens: <strong>Node JS | JavaScript | Express | Fastify | JWT | MONGODB | MysSQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VsCode | Github | Insomnia | API Dog **
+  💼 Ferramentas: <strong>VsCode | Github | Insomnia | API Dog</strong>
 </p>
 
 <p align="left">
