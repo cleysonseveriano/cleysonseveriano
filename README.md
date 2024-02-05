@@ -1,8 +1,8 @@
-### Olá, eu sou o cleysonseveriano 👋
+### Hello, I am Cleyson 👋
 
-- Graduando em Análise e Desenvolvimento de Sistemas
-- Desnsenvolvedor Fullstack Jr
-- 🤨Pronouns: ele/dele
+- Análise e Desenvolvimento de Sistemas
+- Jr BackEnd Developer
+- Working at Speed+
 
 <div align="center">
   <a href="https://github.com/cleysonseveriano">
