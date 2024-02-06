@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá meu nome é Cleyson, desde que comecei minha faculdade em ADS, sempre tive muito interesse em trabalhar com exatas, e hoje combino esse meu interesse com projetos e estudos para back end <strong>Node JS | JavaScript | Express | Fastify | JWT</strong>.<br>
+  Olá meu nome é Cleyson, sempre tive muito interesse em trabalhar com exatas, e cursar ADS é uma forma de trabalhar com exatas porém de maneira mais dinâmica. Hoje combino esse meu interesse em exatas, com projetos e estudos para back end <strong>Node JS | JavaScript | Express | Fastify | JWT</strong>.<br>
   Atualmente sou estagiário em TI, na Speed+ soluções em call center; além disso curso ADS e desenvolvo api com NodeJS
 </p>
 
